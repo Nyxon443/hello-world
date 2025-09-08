@@ -1,1 +1,2 @@
-## the forst file python file added to the repoitory
+## the first  python file added to the repoitory
+## first edit 
